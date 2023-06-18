@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">3.3-lesson</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_from_1_fragment">Hello from 1 fragment</string>
+    <string name="test">Test</string>
+    <string name="go_to_3_fragment">Go to 3 fragment</string>
+    <string name="go_to_2_fragment">Go to 2 fragment</string>
+    <string name="go_to_1_fragment">Go to 1 fragment</string>
+</resources>
